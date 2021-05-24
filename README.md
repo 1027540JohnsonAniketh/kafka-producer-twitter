@@ -1,4 +1,5 @@
 # kafka-producer-twitter
+
 -In this project we design a producer to send the real time tweets to consumer.
 
 -Key features are designing a producer and adding various producer configurations like idempotence producer,acks,batch etc to optimize the performance. 
